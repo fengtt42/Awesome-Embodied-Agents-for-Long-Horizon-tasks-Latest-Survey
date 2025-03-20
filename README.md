@@ -69,7 +69,7 @@ __`[1] MLLM-based`__
 - Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy __`CVPR 2025`__; [Paper](), [Paper Code](https://github.com/dawn0815/Optimus-2) , __`✨ 8`__
 - Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents __`NeurIPS 2024`__; [Paper](https://arxiv.org/pdf/2302.01560), [Paper Code](https://github.com/CraftJarvis/MC-Planner) , __`✨ 270`__
 - Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds __`ICLR 2024`__; [Paper](https://arxiv.org/pdf/2310.13255), [Paper Code](https://github.com/BAAI-Agents/Steve-Eye) , __`✨ 7`__
-- 
+
 __`[2] Knowledge-Graph-based`__
 - Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks __`NeurIPS 2024`__; [Paper](https://openreview.net/pdf?id=XXOMCwZ6by), [Paper Code](https://github.com/JiuTian-VL/Optimus-1) , __`✨ 70`__
 - Active Reasoning in an Open-World Environment __`NeurIPS 2023`__; [Paper](https://arxiv.org/abs/2311.02018), [Paper Code](https://github.com/ariesssxu/Conan-Active-Reasoning) , __`✨ `__
