@@ -12,20 +12,20 @@ This repository provides a structured learning path for <font color=yellow>begin
 The list is designed to help you build a solid worldview of the field, guiding you from foundational concepts to advanced topics, and from broad perspectives to specific technical challenges. <font color=yellow>Please read in order.</font>
 
 
-__`Survey`__
+__`[1] Survey`__
 
 - Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI __`Arxiv 2024`__; [Paper](https://arxiv.org/abs/2407.06886), [Paper List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List), __`✨ 1.3K`__
 
 - A Survey on Vision-Language-Action Models for Embodied AI __`Arxiv 2025`__; [Paper](https://arxiv.org/pdf/2405.14093), [Paper List](https://github.com/yueen-ma/Awesome-VLA), __`✨ 22`__
 
-__`Indoor Robotics`__
+__`[2] Indoor Robotics`__
 - Semantic Mapping in Indoor Embodied AI – A Comprehensive Survey and Future Directions __`TMLR 2025 Reviewing`__; [Paper](https://arxiv.org/abs/2501.05750), [Paper List to be release]()
 
-__`Autonomous Driving`__
+__`[3] Autonomous Driving`__
 
 - End-to-End Autonomous Driving: Challenges and Frontiers __`TPAMI 2024`__; [Paper](https://ieeexplore.ieee.org/abstract/document/10614862), [Paper List to be release](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving), __`✨ 2.9K`__
 
-__`Cross Domain`__
+__`[4] Cross Domain`__
 - A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents __`IJCAI 2024`__; [Paper](https://arxiv.org/pdf/2402.04580), [Paper List](https://github.com/t6-thu/awesome-cross-domain-policy-transfer-for-embodied-agents), __`✨ 45`__
 
 
