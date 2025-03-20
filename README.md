@@ -39,9 +39,9 @@ The world model architectures of autonomous embodied agents include RSSM, JEPA, 
 
 [5] __`Transformer Structure`__; Transformers are Sample Efficient World Models __`ICLR 2023`__; [Paper](https://arxiv.org/pdf/2209.00588), [Paper Code](https://github.com/eloialonso/iris), __`✨ 832`__
 
-[5] __`Diffusion Structure`__; Diffusion for World Modeling: Visual Details Matter in Atari __`NeurIPS 2024 Spotlight`__; [Paper](https://arxiv.org/pdf/2405.12399), [Paper Code](https://github.com/eloialonso/diamond) , __`✨ 1.8K`__
+[6] __`Diffusion Structure`__; Diffusion for World Modeling: Visual Details Matter in Atari __`NeurIPS 2024 Spotlight`__; [Paper](https://arxiv.org/pdf/2405.12399), [Paper Code](https://github.com/eloialonso/diamond) , __`✨ 1.8K`__
 
-[6] __`Hierarchical Structure`__; Hierarchical World Models as Visual Whole-Body Humanoid Controllers __`ICLR 2025`__; [Paper](https://arxiv.org/abs/2405.18418), [Paper Code](https://github.com/nicklashansen/puppeteer) , __`✨ 169`__
+[7] __`Hierarchical Structure`__; Hierarchical World Models as Visual Whole-Body Humanoid Controllers __`ICLR 2025`__; [Paper](https://arxiv.org/abs/2405.18418), [Paper Code](https://github.com/nicklashansen/puppeteer) , __`✨ 169`__
 
 | Structure  | Key Ideal | Strengths | Pioneering Work |
 |------------|-----------|-----------|--|
@@ -56,15 +56,15 @@ The world model architectures of autonomous embodied agents include RSSM, JEPA, 
 
 ---
 
-[1] Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks __`NeurIPS 2024 Spotlight`__; [Paper](), [Paper Code]() , __`✨ `__
+[1] __`Knowledge Graph`__; Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks __`NeurIPS 2024`__; [Paper](https://openreview.net/pdf?id=XXOMCwZ6by), [Paper Code](https://github.com/JiuTian-VL/Optimus-1) , __`✨ 70`__
 
-[2] Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy __`NeurIPS 2024 Spotlight`__; [Paper](), [Paper Code]() , __`✨ `__
+[2] __`MLLM-based`__; Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy __`CVPR 2025`__; [Paper](), [Paper Code](https://github.com/dawn0815/Optimus-2) , __`✨ 8`__
 
-[3] Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents __`NeurIPS 2024 Spotlight`__; [Paper](), [Paper Code]() , __`✨ `__
+[3] __`LLM-based`__; Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents __`NeurIPS 2024`__; [Paper](https://arxiv.org/pdf/2302.01560), [Paper Code](https://github.com/CraftJarvis/MC-Planner) , __`✨ 270`__
 
-[4] Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds __`NeurIPS 2024 Spotlight`__; [Paper](), [Paper Code]() , __`✨ `__
+[4] __`LLM-based`__; Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds __`ICLR 2024`__; [Paper](https://arxiv.org/pdf/2310.13255), [Paper Code](https://github.com/BAAI-Agents/Steve-Eye) , __`✨ 7`__
 
-[5] Active Reasoning in an Open-World Environment __`NeurIPS 2024 Spotlight`__; [Paper](), [Paper Code]() , __`✨ `__
+[5] __`Knowledge Graph`__; Active Reasoning in an Open-World Environment __`NeurIPS 2023`__; [Paper](https://arxiv.org/abs/2311.02018), [Paper Code](https://github.com/ariesssxu/Conan-Active-Reasoning) , __`✨ `__
 
 
 ##  🎯 Announcement
