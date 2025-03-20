@@ -28,6 +28,7 @@ __`[3] Autonomous Driving`__
 __`[4] Cross Domain`__
 - A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents __`IJCAI 2024`__; [Paper](https://arxiv.org/pdf/2402.04580), [Paper List](https://github.com/t6-thu/awesome-cross-domain-policy-transfer-for-embodied-agents), __`✨ 45`__
 
+---
 
 ##  🗺️ World Model Paper Lists
 
@@ -60,6 +61,7 @@ __`[6] Hierarchical Structure`__
 | **Diffusion Models**|Iteratively denoises latent states to model complex distributions|High-fidelity generation, handles multimodal predictions|Planning in continuous action spaces|
 |**Hierarchical Architectures** |Decomposes tasks into temporal/abstract hierarchies|Scalability, enables subgoal-based planning|Temporal Abstraction (HiP), Manager-Worker frameworks|
 
+---
 
 ##  🚀 Long-Horizon Task Paper Lists
 
@@ -72,6 +74,7 @@ __`[2] Knowledge-Graph-based`__
 - Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks __`NeurIPS 2024`__; [Paper](https://openreview.net/pdf?id=XXOMCwZ6by), [Paper Code](https://github.com/JiuTian-VL/Optimus-1) , __`✨ 70`__
 - Active Reasoning in an Open-World Environment __`NeurIPS 2023`__; [Paper](https://arxiv.org/abs/2311.02018), [Paper Code](https://github.com/ariesssxu/Conan-Active-Reasoning) , __`✨ `__
 
+---
 
 ##  🎯 Announcement
 
