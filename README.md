@@ -9,7 +9,6 @@ This repository provides a structured learning path for <font color=yellow>begin
 
 ##  📚 Embodied AI Paper Lists
 
----
 The list is designed to help you build a solid worldview of the field, guiding you from foundational concepts to advanced topics, and from broad perspectives to specific technical challenges. <font color=yellow>Please read in order.</font>
 
 
@@ -26,7 +25,6 @@ The list is designed to help you build a solid worldview of the field, guiding y
 
 ##  🗺️ World Model Paper Lists
 
----
 The world model architectures of autonomous embodied agents include RSSM, JEPA, Transformer, Diffusion, and Hierarchical.
 
 [1] __`Survey`__; Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond __`Arxiv 2024`__; [paper](https://arxiv.org/abs/2405.03520), [Paper Lists](https://github.com/GigaAI-research/General-World-Models-Survey), __`✨ 370`__
@@ -54,8 +52,6 @@ The world model architectures of autonomous embodied agents include RSSM, JEPA, 
 
 ##  🚀 Long-Horizon Task Paper Lists
 
----
-
 [1] __`Knowledge Graph`__; Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks __`NeurIPS 2024`__; [Paper](https://openreview.net/pdf?id=XXOMCwZ6by), [Paper Code](https://github.com/JiuTian-VL/Optimus-1) , __`✨ 70`__
 
 [2] __`MLLM-based`__; Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy __`CVPR 2025`__; [Paper](), [Paper Code](https://github.com/dawn0815/Optimus-2) , __`✨ 8`__
@@ -69,7 +65,6 @@ The world model architectures of autonomous embodied agents include RSSM, JEPA, 
 
 ##  🎯 Announcement
 
----
 Besides the wonderful papers we list above, we are very happy to announce that our group, THU-Swarm Laboratory, recently released a preprint titled: [EvoAgent: Agent Autonomous Evolution with Continual World Model for Long-Horizon Tasks](https://arxiv.org/pdf/2502.05907), the first autonomous-evolution agent with a continual World Model, which can autonomously complete various long-horizon tasks across environments through self-planning, self-control, and self-reflection, without human intervention. If this paper inspires you, you may consider cite it via:
 ```bibtex
 @article{feng2025evoagent,
