@@ -3,7 +3,6 @@
 
 Start your journey in Autonomous Embodied AI with a curated roadmap of foundational papers. 
 
----
 >This repository provides a structured learning path for <font color=yellow>beginners</font> in Autonomous Embodied AI, offering a <font color=yellow>handpicked list of classic papers</font> and a <font color=yellow>recommended study order</font>. Thank you for forking and giving a ⭐.
 > Updated regularly.
 
