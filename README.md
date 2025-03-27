@@ -1,4 +1,4 @@
-# Awesome-Embodied-Agent-for-Long-Horizon-Tasks-Latest-Survey
+# Awesome-Embodied-Agents-for-Long-Horizon-Tasks-Latest-Survey
 
 Start your journey in embodied agent for long-horizon tasks. Keep updated.
 
