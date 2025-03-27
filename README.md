@@ -18,6 +18,10 @@ The list is designed to help you build a solid worldview of the field, guiding y
 
 - Embodied-Agent-for-Long-Horizon-Tasks Simulator
 
+##  🗺️ Robotics
+
+- Embodied-Agent-for-Long-Horizon-Tasks Robotics
+
 ##  📚 Papers
 
 ### 1、Service Embodied Agents for Long-Horizon Tasks
