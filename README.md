@@ -47,6 +47,21 @@ The list is designed to help you build a solid worldview of the field, guiding y
 ####  __`CVPR 2025`__
 - Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method; [Paper](https://arxiv.org/abs/2412.09082), __`✨ 3`__
 
+####  __`CoRR 2024`__
+- FLAIR: Feeding via Long-horizon AcquIsition of Realistic dishes; [Paper](https://arxiv.org/abs/2407.07561), __`✨ 10`__
+- Guiding Long-Horizon Task and Motion Planning with Vision Language Models; [Paper](https://openreview.net/forum?id=vyuoUxLBQc), __`✨ 16`__
+
+####  __`ICRA 2024`__
+- FLTRNN: Faithful Long-Horizon Task Planning for Robotics with Large Language Models; [Paper](https://ieeexplore.ieee.org/abstract/document/10611663), __`✨ 12`__
+
+####  __`IROS 2023`__
+- Value-Informed Skill Chaining for Policy Learning of Long-Horizon Tasks with Surgical Robot; [Paper](https://ieeexplore.ieee.org/abstract/document/10342180), __`✨ 7`__
+
+####  __`CVPR 2022`__
+- One Step at a Time: Long-Horizon Vision-and-Language Navigation With Milestones; [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Song_One_Step_at_a_Time_Long-Horizon_Vision-and-Language_Navigation_With_Milestones_CVPR_2022_paper.html), __`✨ 33`__
+
+
+
 ### 2、Industrial Embodied Agents for Long-Horizon Tasks
 
 ---
@@ -80,10 +95,26 @@ The list is designed to help you build a solid worldview of the field, guiding y
 ####  __`RAL 2023`__
 - LEAGUE: Guided Skill Learning and Abstraction for Long-Horizon Manipulation; [Paper](https://ieeexplore.ieee.org/abstract/document/10227514), __`✨ 30`__
 
+####  __`CoRL 2020`__
+- A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects; [Paper](https://arxiv.org/abs/2011.08177), __`✨ 44`__
+
+####  __`IROS 2024`__
+- DexSkills: Skill Segmentation Using Haptic Data for Learning Autonomous Long-Horizon Robotic Manipulation Tasks; [Paper](https://ieeexplore.ieee.org/abstract/document/10802807), __`✨ 8`__
+
+####  __`ICRA 2022`__
+- Long-Horizon Manipulation of Unknown Objects via Task and Motion Planning with Estimated Affordances; [Paper](https://ieeexplore.ieee.org/abstract/document/9812057), __`✨ 69`__
+
+
+
 ### 3、Driving Embodied Agents for Long-Horizon Tasks
 
 ---
 - Driving Embodied Agents for Long-Horizon Tasks
+
+####  __`IEEE Transactions on Control Systems Technology 2022`__
+- Long-Horizon Vehicle Motion Planning and Control Through Serially Cascaded Model Complexity; [Paper](https://ieeexplore.ieee.org/abstract/document/9366415), __`✨ 57`__
+
+
 
 ### 4、Entertainment Embodied Agents for Long-Horizon Tasks
 
@@ -102,6 +133,7 @@ The list is designed to help you build a solid worldview of the field, guiding y
 
 ####  __`NeurIPS 2023`__
 - Active Reasoning in an Open-World Environment; [Paper](https://arxiv.org/abs/2311.02018), [Paper Code](https://github.com/ariesssxu/Conan-Active-Reasoning) , __`✨ `__
+- Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks; [Paper](https://arxiv.org/abs/2303.16563), __`✨ 20`__
 
 ####  __`CoRL 2023`__
 - MimicPlay: Long-Horizon Imitation Learning by Watching Human Play; [Paper](https://arxiv.org/abs/2302.12422), __`✨ 174`__
@@ -109,6 +141,7 @@ The list is designed to help you build a solid worldview of the field, guiding y
 ####  __`NeurIPS 2022`__
 - Generalizable Long-Horizon Manipulations with Large Language Models; [Paper](https://arxiv.org/abs/2210.01753), __`✨ 38`__
 - HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences; [Paper](https://arxiv.org/abs/2310.02264), __`✨ 14`__
+- DHRL: A Graph-Based Approach for Long-Horizon and Sparse Hierarchical Reinforcement Learning; [Paper](https://openreview.net/forum?id=D3Oj2fgZXT), __`✨ 20`__
 
 ####  __`2025`__
 - Structured Preference Optimization for Vision-Language Long-Horizon Task Planning; [Paper](https://arxiv.org/abs/2502.20742), __`✨ 1`__
@@ -119,6 +152,21 @@ The list is designed to help you build a solid worldview of the field, guiding y
 
 ####  __`ICRA 2024`__
 - Intrinsic Language-Guided Exploration for Complex Long-Horizon Robotic Manipulation Tasks; [Paper](https://arxiv.org/abs/2309.16347), __`✨ 12`__
+
+####  __`ICRA 2021`__
+- Learning Geometric Reasoning and Control for Long-Horizon Tasks from Visual Input; [Paper](https://ieeexplore.ieee.org/abstract/document/9560934), __`✨ 46`__
+
+####  __`NeurIPS 2021`__
+- Successor Feature Landmarks for Long-Horizon Goal-Conditioned Reinforcement Learning; [Paper](https://openreview.net/forum?id=nwUAZ37ku6S), __`✨ 42`__
+
+####  __`2024`__
+- ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation; [Paper](https://arxiv.org/abs/2409.13682), __`✨ 9`__
+
+####  __`ICLR 2022`__
+- Value Function Spaces: Skill-Centric State Abstractions for Long-Horizon Reasoning; [Paper](https://arxiv.org/abs/2111.03189), __`✨ 41`__
+
+####  __`AAAI 2023`__
+- Improving Long-Horizon Imitation through Instruction Prediction; [Paper](https://openreview.net/forum?id=T68lDkAmAT), __`✨ 7`__
 
 ##  🎯 Announcement
 
