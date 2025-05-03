@@ -60,6 +60,9 @@ The list is designed to help you build a solid worldview of the field, guiding y
 ####  __`CVPR 2022`__
 - One Step at a Time: Long-Horizon Vision-and-Language Navigation With Milestones; [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Song_One_Step_at_a_Time_Long-Horizon_Vision-and-Language_Navigation_With_Milestones_CVPR_2022_paper.html), __`✨ 33`__
 
+####  __`IROS 2024`__
+- LAVA: Long-horizon Visual Action based Food Acquisition; [Paper](https://ieeexplore.ieee.org/abstract/document/10802738), __`✨ 7`__
+
 
 
 ### 2、Industrial Embodied Agents for Long-Horizon Tasks
@@ -94,6 +97,7 @@ The list is designed to help you build a solid worldview of the field, guiding y
 
 ####  __`RAL 2023`__
 - LEAGUE: Guided Skill Learning and Abstraction for Long-Horizon Manipulation; [Paper](https://ieeexplore.ieee.org/abstract/document/10227514), __`✨ 30`__
+- ERRA: An Embodied Representation and Reasoning Architecture for Long-horizon Language-conditioned Manipulation Tasks; [Paper](https://arxiv.org/abs/2304.02251), __`✨ 17`__
 
 ####  __`CoRL 2020`__
 - A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects; [Paper](https://arxiv.org/abs/2011.08177), __`✨ 44`__
@@ -103,6 +107,21 @@ The list is designed to help you build a solid worldview of the field, guiding y
 
 ####  __`ICRA 2022`__
 - Long-Horizon Manipulation of Unknown Objects via Task and Motion Planning with Estimated Affordances; [Paper](https://ieeexplore.ieee.org/abstract/document/9812057), __`✨ 69`__
+
+####  __`IEEE Trans. Cybern. 2024`__
+- Task-Driven Reinforcement Learning With Action Primitives for Long-Horizon Manipulation Skills; [Paper](https://ieeexplore.ieee.org/abstract/document/10215053), __`✨ 18`__
+
+####  __`CoRL 2021`__
+- Adversarial Skill Chaining for Long-Horizon Robot Manipulation via Terminal State Regularization; [Paper](https://arxiv.org/abs/2111.07999), __`✨ 42`__
+
+####  __`ICML 2024`__
+- KISA: A Unified Keyframe Identifier and Skill Annotator for Long-Horizon Robotics Demonstrations; [Paper](https://openreview.net/forum?id=oCI9gHocws), __`✨ 3`__
+
+####  __`Advanced Engineering Informatics 2023`__
+- Enhancing construction robot learning for collaborative and long-horizon tasks using generative adversarial imitation learning; [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1474034623002689), __`✨ 10`__
+
+####  __`AAAI 2025`__
+- SkillTree: Explainable Skill-Based Deep Reinforcement Learning for Long-Horizon Control Tasks; [Paper](https://arxiv.org/abs/2411.12173), __`✨ 1`__
 
 
 
@@ -167,6 +186,11 @@ The list is designed to help you build a solid worldview of the field, guiding y
 
 ####  __`AAAI 2023`__
 - Improving Long-Horizon Imitation through Instruction Prediction; [Paper](https://openreview.net/forum?id=T68lDkAmAT), __`✨ 7`__
+
+####  __`AAAI 2024`__
+- Planning Transformer: Long-Horizon Offline Reinforcement Learning with Planning Tokens; [Paper](https://arxiv.org/abs/2409.09513), __`✨ 3`__
+
+
 
 ##  🎯 Announcement
 
