@@ -63,6 +63,21 @@ The list is designed to help you build a solid worldview of the field, guiding y
 ####  __`IROS 2024`__
 - LAVA: Long-horizon Visual Action based Food Acquisition; [Paper](https://ieeexplore.ieee.org/abstract/document/10802738), __`✨ 7`__
 
+####  __`CoRL 2021`__
+- Example-Driven Model-Based Reinforcement Learning for Solving Long-Horizon Visuomotor Tasks; [Paper](https://arxiv.org/abs/2109.10312), __`✨ 29`__
+
+####  __`DASFAA 2024`__
+- MLDT: Multi-Level Decomposition for Complex Long-Horizon Robotic Task Planning with Open-Source Large Language Model; [Paper](https://arxiv.org/abs/2403.18760), __`✨ 14`__
+
+####  __`CoRR 2023`__
+- LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation; [Paper](https://arxiv.org/abs/2310.12020), __`✨ 10`__
+
+####  __`NeurIPS 2022`__
+- Guided Skill Learning and Abstraction for Long-Horizon Manipulation; [Paper](https://openreview.net/forum?id=JEJh6CQBeuB), __`✨ 16`__
+
+####  __`POPL 2024`__
+- Programming-by-Demonstration for Long-Horizon Robot Tasks; [Paper](https://dl.acm.org/doi/abs/10.1145/3632860), __`✨ 8`__
+
 
 
 ### 2、Industrial Embodied Agents for Long-Horizon Tasks
@@ -88,6 +103,7 @@ The list is designed to help you build a solid worldview of the field, guiding y
 
 ####  __`Automation in Construction 2023`__
 - To imitate or not to imitate: Boosting reinforcement learning-based construction robotic control for long-horizon tasks using virtual demonstrations; [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580522005611), __`✨ 40`__
+- Optimizing heterogeneous multi-robot team composition for long-horizon construction tasks: Time- and utilization-guided simulation; [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580524002565), __`✨ 1`__
 
 ####  __`T-RO 2023`__
 - Long-Horizon Multi-Robot Rearrangement Planning for Construction Assembly; [Paper](https://arxiv.org/abs/2106.02489), __`✨ 104`__
@@ -123,6 +139,12 @@ The list is designed to help you build a solid worldview of the field, guiding y
 ####  __`AAAI 2025`__
 - SkillTree: Explainable Skill-Based Deep Reinforcement Learning for Long-Horizon Control Tasks; [Paper](https://arxiv.org/abs/2411.12173), __`✨ 1`__
 
+####  __`ICRA 2024`__
+- ALPHA: Attention-based Long-horizon Pathfinding in Highly-structured Areas; [Paper](https://ieeexplore.ieee.org/abstract/document/10611301), __`✨ 10`__
+
+####  __`ICLR 2025`__
+- Diffusion Trajectory-guided Policy: A Novel Framework for Long-Horizon Robot Manipulation; [Paper](https://openreview.net/forum?id=VaoeAi5CW8), __`✨ 1`__
+
 
 
 ### 3、Driving Embodied Agents for Long-Horizon Tasks
@@ -146,6 +168,7 @@ The list is designed to help you build a solid worldview of the field, guiding y
 ####  __`NeurIPS 2024`__
 - Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents; [Paper](https://arxiv.org/pdf/2302.01560), [Paper Code](https://github.com/CraftJarvis/MC-Planner) , __`✨ 270`__
 - Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks; [Paper](https://openreview.net/pdf?id=XXOMCwZ6by), [Paper Code](https://github.com/JiuTian-VL/Optimus-1) , __`✨ 70`__
+- MARPLE: A Benchmark for Long-Horizon Inference; [Paper](https://arxiv.org/abs/2410.01926), __`✨ `__
 
 ####  __`ICLR 2024`__
 - Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds; [Paper](https://arxiv.org/pdf/2310.13255), [Paper Code](https://github.com/BAAI-Agents/Steve-Eye) , __`✨ 7`__
@@ -180,6 +203,7 @@ The list is designed to help you build a solid worldview of the field, guiding y
 
 ####  __`2024`__
 - ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation; [Paper](https://arxiv.org/abs/2409.13682), __`✨ 9`__
+- VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks; [Paper](https://arxiv.org/abs/2412.18194), __`✨ 4`__
 
 ####  __`ICLR 2022`__
 - Value Function Spaces: Skill-Centric State Abstractions for Long-Horizon Reasoning; [Paper](https://arxiv.org/abs/2111.03189), __`✨ 41`__
@@ -189,6 +213,15 @@ The list is designed to help you build a solid worldview of the field, guiding y
 
 ####  __`AAAI 2024`__
 - Planning Transformer: Long-Horizon Offline Reinforcement Learning with Planning Tokens; [Paper](https://arxiv.org/abs/2409.09513), __`✨ 3`__
+
+####  __`TASE 2022`__
+- A Framework of Robot Skill Learning From Complex and Long-Horizon Tasks; [Paper](https://ieeexplore.ieee.org/abstract/document/9625636), __`✨ 23`__
+
+####  __`CoRR 2022`__
+- Learning Long-Horizon Robot Exploration Strategies for Multi-Object Search in Continuous Action Spaces; [Paper](https://openreview.net/forum?id=a9VJRMJDGdu), __`✨ 20`__
+
+####  __`CoRR 2024`__
+- HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model; [Paper](https://arxiv.org/abs/2408.09559), __`✨ 10`__
 
 
 
