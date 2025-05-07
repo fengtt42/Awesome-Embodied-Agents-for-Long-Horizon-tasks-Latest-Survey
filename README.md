@@ -145,6 +145,12 @@ The list is designed to help you build a solid worldview of the field, guiding y
 ####  __`ICLR 2025`__
 - Diffusion Trajectory-guided Policy: A Novel Framework for Long-Horizon Robot Manipulation; [Paper](https://openreview.net/forum?id=VaoeAi5CW8), __`✨ 1`__
 
+####  __`CoRL 2023`__
+- MimicPlay: Long-Horizon Imitation Learning by Watching Human Play; [Paper](https://arxiv.org/abs/2302.12422), __`✨ 174`__
+
+####  __`NeurIPS 2022`__
+- Generalizable Long-Horizon Manipulations with Large Language Models; [Paper](https://arxiv.org/abs/2310.02264), __`✨ 38`__
+
 
 
 ### 3、Driving Embodied Agents for Long-Horizon Tasks
@@ -177,12 +183,8 @@ The list is designed to help you build a solid worldview of the field, guiding y
 - Active Reasoning in an Open-World Environment; [Paper](https://arxiv.org/abs/2311.02018), [Paper Code](https://github.com/ariesssxu/Conan-Active-Reasoning) , __`✨ `__
 - Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks; [Paper](https://arxiv.org/abs/2303.16563), __`✨ 20`__
 
-####  __`CoRL 2023`__
-- MimicPlay: Long-Horizon Imitation Learning by Watching Human Play; [Paper](https://arxiv.org/abs/2302.12422), __`✨ 174`__
-
 ####  __`NeurIPS 2022`__
-- Generalizable Long-Horizon Manipulations with Large Language Models; [Paper](https://arxiv.org/abs/2210.01753), __`✨ 38`__
-- HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences; [Paper](https://arxiv.org/abs/2310.02264), __`✨ 14`__
+- HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences; [Paper](https://arxiv.org/abs/2210.01753), __`✨ 14`__
 - DHRL: A Graph-Based Approach for Long-Horizon and Sparse Hierarchical Reinforcement Learning; [Paper](https://openreview.net/forum?id=D3Oj2fgZXT), __`✨ 20`__
 
 ####  __`2025`__
