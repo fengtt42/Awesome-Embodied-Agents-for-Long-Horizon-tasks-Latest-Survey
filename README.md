@@ -191,6 +191,7 @@ The list is designed to help you build a solid worldview of the field, guiding y
 - Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents; [Paper](https://arxiv.org/pdf/2302.01560), [Paper Code](https://github.com/CraftJarvis/MC-Planner) , __`✨ 270`__
 - Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks; [Paper](https://openreview.net/pdf?id=XXOMCwZ6by), [Paper Code](https://github.com/JiuTian-VL/Optimus-1) , __`✨ 70`__
 - MARPLE: A Benchmark for Long-Horizon Inference; [Paper](https://arxiv.org/abs/2410.01926), __`✨ `__
+- Diffusion for World Modeling: Visual Details Matter in Atari; [Paper](https://openreview.net/forum?id=soNEL9PB3X), __`✨ 46`__
 
 ####  __`ICLR 2024`__
 - Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds; [Paper](https://arxiv.org/pdf/2310.13255), [Paper Code](https://github.com/BAAI-Agents/Steve-Eye) , __`✨ 7`__
@@ -216,6 +217,18 @@ The list is designed to help you build a solid worldview of the field, guiding y
 
 ####  __`CoRR 2024`__
 - HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model; [Paper](https://arxiv.org/abs/2408.09559), __`✨ 10`__
+
+####  __`NATURE 2025`__
+- Mastering Diverse Domains through World Models; [Paper](https://arxiv.org/abs/2301.04104), __`✨ 668`__
+
+####  __`ICLR 2021`__
+- Mastering Atari with Discrete World Models; [Paper](https://arxiv.org/abs/2010.02193), __`✨ 1043`__
+
+####  __`ICLR 2020`__
+- Dream to Control: Learning Behaviors by Latent Imagination; [Paper](https://arxiv.org/abs/1912.01603), __`✨ 1609`__
+
+####  __`NeurIPS 2018`__
+- World Models; [Paper](https://arxiv.org/abs/1803.10122), __`✨ 1424`__
 
 
 
